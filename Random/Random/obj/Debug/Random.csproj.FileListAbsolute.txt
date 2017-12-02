@@ -1,0 +1,6 @@
+C:\Users\jason\Desktop\CSharpPractice\Random\Random\bin\Debug\Random.exe.config
+C:\Users\jason\Desktop\CSharpPractice\Random\Random\bin\Debug\Random.exe
+C:\Users\jason\Desktop\CSharpPractice\Random\Random\bin\Debug\Random.pdb
+C:\Users\jason\Desktop\CSharpPractice\Random\Random\obj\Debug\Random.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\CSharpPractice\Random\Random\obj\Debug\Random.exe
+C:\Users\jason\Desktop\CSharpPractice\Random\Random\obj\Debug\Random.pdb

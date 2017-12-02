@@ -1,0 +1,7 @@
+C:\Users\jason\Desktop\CSharpPractice\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe.config
+C:\Users\jason\Desktop\CSharpPractice\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe
+C:\Users\jason\Desktop\CSharpPractice\ReferenceAndValueTypes\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.pdb
+C:\Users\jason\Desktop\CSharpPractice\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\CSharpPractice\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\CSharpPractice\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.exe
+C:\Users\jason\Desktop\CSharpPractice\ReferenceAndValueTypes\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.pdb

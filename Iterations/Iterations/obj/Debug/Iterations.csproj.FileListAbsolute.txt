@@ -1,0 +1,7 @@
+C:\Users\jason\Desktop\CSharpPractice\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\jason\Desktop\CSharpPractice\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\jason\Desktop\CSharpPractice\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\jason\Desktop\CSharpPractice\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\CSharpPractice\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\jason\Desktop\CSharpPractice\Iterations\Iterations\obj\Debug\Iterations.pdb
+C:\Users\jason\Desktop\CSharpPractice\Iterations\Iterations\obj\Debug\Iterations.csprojResolveAssemblyReference.cache

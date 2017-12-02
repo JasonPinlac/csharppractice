@@ -1,0 +1,7 @@
+C:\Users\jason\Desktop\CSharpPractice\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\jason\Desktop\CSharpPractice\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\jason\Desktop\CSharpPractice\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\jason\Desktop\CSharpPractice\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\CSharpPractice\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\jason\Desktop\CSharpPractice\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\jason\Desktop\CSharpPractice\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache

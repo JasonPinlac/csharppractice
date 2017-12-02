@@ -1,0 +1,7 @@
+C:\Users\jason\Desktop\CSharpPractice\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\jason\Desktop\CSharpPractice\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\jason\Desktop\CSharpPractice\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\jason\Desktop\CSharpPractice\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\jason\Desktop\CSharpPractice\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\CSharpPractice\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\jason\Desktop\CSharpPractice\Arrays\Arrays\obj\Debug\Arrays.pdb

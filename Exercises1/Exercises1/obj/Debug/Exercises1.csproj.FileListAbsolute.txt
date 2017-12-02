@@ -1,0 +1,7 @@
+C:\Users\jason\Desktop\CSharpPractice\Exercises1\Exercises1\bin\Debug\Exercises1.exe.config
+C:\Users\jason\Desktop\CSharpPractice\Exercises1\Exercises1\bin\Debug\Exercises1.exe
+C:\Users\jason\Desktop\CSharpPractice\Exercises1\Exercises1\bin\Debug\Exercises1.pdb
+C:\Users\jason\Desktop\CSharpPractice\Exercises1\Exercises1\obj\Debug\Exercises1.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\CSharpPractice\Exercises1\Exercises1\obj\Debug\Exercises1.exe
+C:\Users\jason\Desktop\CSharpPractice\Exercises1\Exercises1\obj\Debug\Exercises1.pdb
+C:\Users\jason\Desktop\CSharpPractice\Exercises1\Exercises1\obj\Debug\Exercises1.csprojResolveAssemblyReference.cache

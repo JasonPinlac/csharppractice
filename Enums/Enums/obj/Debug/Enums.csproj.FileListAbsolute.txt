@@ -1,0 +1,6 @@
+C:\Users\jason\Desktop\CSharpPractice\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\CSharpPractice\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\jason\Desktop\CSharpPractice\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\jason\Desktop\CSharpPractice\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\jason\Desktop\CSharpPractice\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\jason\Desktop\CSharpPractice\Enums\Enums\obj\Debug\Enums.pdb
